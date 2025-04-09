@@ -35,6 +35,7 @@ Key Outcomes: Accurate detection and classification of traffic lights in images 
 Future Work:
 
 To improve the model’s performance and accuracy, several areas of enhancement have been identified: Dataset Expansion: Adding more labeled images with different traffic light scenarios (e.g., different lighting, weather conditions, and traffic environments) will help the model generalize better.
+![Trafficlights](https://github.com/user-attachments/assets/69984b03-9e41-462d-9315-9dc07e49cd04)
 
 Model Fine-Tuning: Additional fine-tuning and optimization could improve the detection accuracy, particularly for challenging conditions. Real-time Application: Optimizing the model's performance for real-time inference on video streams or integrating it with live traffic footage systems for broader deployment.
 
